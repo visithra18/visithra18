@@ -1,166 +1,158 @@
 # Hi there, I'm Visithra S 👋
 
-### ECE Student | VLSI & Chip Design Enthusiast
-### Aspiring VLSI Design Engineer 💻
+### Electronics & Communication Engineering Student | Aspiring VLSI Design Engineer
+*Exploring Semiconductor Technology, Digital Electronics, and Integrated Circuit Design.*
 
 ---
 
-## 🔗 CONNECT WITH ME
-
-🔗 **LinkedIn:** Visithra S  
-🐙 **GitHub:** [visithra18](https://github.com/visithra18)  
-📧 **Email:** visithrasutharasanan@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visithra-s-748a97440/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/visithra18)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visithrasutharsanan@gmail.com)
 
 ---
 
-## 👩‍💻 About Me
+## 📌 About Me
 
-🎓 I am an Electronics and Communication Engineering (ECE) student building a strong foundation in electronics, programming, and digital systems.
-
-💻 I am currently exploring VLSI, Digital Electronics, and Chip Designing.
-
-🚀 Working toward becoming a VLSI Design Engineer and, in the long term, a skilled Chip Design / SoC Design Engineer.
-
-🔧 I enjoy understanding how hardware and software work together to create real-world technology.
-
-📚 **Currently learning:** C Programming, Python, Digital Electronics, and VLSI Fundamentals.
-
-💡 **Ask me about:** C Programming, ECE basics, Digital Electronics, and my VLSI learning journey.
-
-✨ **Fun fact:** I enjoy turning what I learn into small projects and continuously exploring new areas in technology.
+- 🎓 **Education:** Electronics and Communication Engineering (ECE) Student.
+- 🎯 **Career Goal:** Aspiring VLSI Design Engineer with an interest in semiconductor technology and chip design.
+- ⚡ **Core Interest:** Digital System Design, CMOS Technology, Logic Design, and Integrated Circuits.
+- 🔬 **Currently Exploring:** Digital Electronics, Verilog HDL, Semiconductor Devices, and RTL Design.
+- 💻 **Programming Interests:** C Programming and Python for engineering applications.
+- 💡 **Passion:** Understanding how digital logic and semiconductor devices come together to build modern electronic systems.
+- 🚀 **Goal:** To develop strong technical skills and contribute to innovative VLSI and semiconductor design projects.
 
 ---
 
-# 🛠️ Tech Stack & Tooling
+## 💻 Technical Skills
 
-| Domain | Technologies & Tools |
-|---|---|
-| 💻 Languages | C, Python, HTML |
-| 🔌 Hardware & Electronics | Digital Electronics, Logic Gates, Microprocessor Basics |
-| 🔬 VLSI | VLSI Fundamentals, Digital Logic, Chip Design Basics |
-| 🧰 Development Tools | VS Code, Git, GitHub |
-| 💻 Operating Systems | Windows |
-| 🔄 Version Control | Git & GitHub |
-| 🚀 Learning Next | Verilog, SystemVerilog, FPGA & SoC Design |
+### ⚡ Programming Languages
+- **C Programming:** Fundamentals, arrays, pointers, functions, and problem-solving.
+- **Python:** Programming fundamentals, scripting, and basic automation.
 
----
+### 🔌 VLSI & Digital Electronics
+- Digital Logic Design
+- Boolean Algebra and Logic Gates
+- Combinational and Sequential Circuits
+- Flip-Flops, Registers, and Counters
+- Semiconductor Device Fundamentals
+- CMOS Logic Fundamentals
+- RTL Design Concepts
 
-# 🚀 Featured Repositories
+### 🎯 Hardware Description Languages
+- **Verilog HDL:** Exploring digital circuit modelling and RTL design.
+- **VHDL:** Interested in hardware description and digital system implementation.
 
-## 💻 C Programming Practice
-
-A collection of beginner-friendly C programs created while building my programming fundamentals.
-
-📌 Covers conditional statements, loops, patterns, functions, and basic problem solving.
-
-🧠 Helps strengthen logical thinking and programming fundamentals.
-
-**C | Programming | Beginner | Problem-Solving**
-
----
-
-## 🐍 Python Learning
-
-A collection of Python programs created while exploring programming fundamentals.
-
-📌 Includes beginner-level programs and problem-solving exercises.
-
-🧠 Building a strong foundation in Python programming.
-
-**Python | Programming | Learning**
+### 🛠 Tools & Technologies
+- Git and GitHub
+- VS Code
+- Digital Logic Simulation Tools
+- Linux Fundamentals
 
 ---
 
-# 🔬 VLSI & Digital Electronics Journey
+## 🛠 Tech Stack
 
-My learning space for exploring digital electronics and the fundamentals of VLSI and chip design.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,linux,vscode" />
+</p>
 
-📌 Exploring digital logic, semiconductor concepts, and VLSI fundamentals.
-
-🎯 Working toward a career in VLSI and chip designing.
-
-**VLSI | ECE | Digital Electronics | Chip Design**
-
----
-
-# 🗺️ Career Roadmap
-
-✅ Started my journey in Electronics and Communication Engineering
-
-✅ Started learning C Programming
-
-✅ Exploring Python Programming
-
-🔄 Strengthening Digital Electronics fundamentals
-
-🔄 Learning VLSI and Chip Design concepts
-
-🎯 Learn Verilog & SystemVerilog
-
-🎯 Explore FPGA and RTL Design
-
-🎯 Build practical VLSI / Digital Design projects
-
-🎯 Work toward becoming a VLSI Design Engineer
-
-🚀 **Long-term goal:** Become a Chip Design / SoC Design Engineer
+| Domain | Technologies |
+|:---|:---|
+| Programming | C, Python |
+| Hardware Design | Digital Electronics, Logic Design |
+| VLSI Concepts | CMOS, RTL Design, Semiconductor Fundamentals |
+| HDL | Verilog, VHDL (Learning) |
+| Development Tools | Git, GitHub, VS Code |
+| Operating Systems | Windows, Linux |
 
 ---
 
-# 🏆 Certifications & Achievements
+## 🌟 Featured Projects
 
-📜 Exploring certifications and technical learning opportunities in VLSI, ECE, and programming.
+### 📂 Digital Electronics Projects
+*Exploring fundamental digital circuits and logic design.*
 
-💻 Building projects and strengthening my technical portfolio through GitHub.
+- Implementation of basic logic gates.
+- Combinational circuit design.
+- Sequential circuit concepts.
+- Digital system simulation.
 
-🎓 Continuously developing my skills through academic and self-learning projects.
+**Technologies:** `Digital Electronics` `Logic Design`
 
----
+### 📂 C Programming Foundations
+*Building programming fundamentals through problem-solving.*
 
-# 📊 GitHub Activity & Metrics
+- Arrays and strings.
+- Functions and pointers.
+- Loops and conditional statements.
+- Basic engineering algorithms.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=visithra18&show_icons=true&theme=default)
+**Technologies:** `C` `Programming` `Problem Solving`
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=visithra18&theme=default)
+### 📂 Verilog HDL Projects
+*Future exploration of hardware description and digital circuit implementation.*
 
----
+- Basic Verilog modules.
+- Combinational logic modelling.
+- Sequential circuit modelling.
+- RTL design and testbench development.
 
-# 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visithra18&layout=compact&theme=default)
-
----
-
-# 🌱 Currently Exploring
-
-C Programming  
-↓  
-Digital Electronics  
-↓  
-VLSI Fundamentals  
-↓  
-Verilog / SystemVerilog  
-↓  
-RTL Design  
-↓  
-FPGA & SoC Design  
-↓  
-**VLSI Design Engineer**
+**Technologies:** `Verilog HDL` `RTL Design` `Digital Design`
 
 ---
 
-# 🤝 Connect With Me
+## 🚀 Career Roadmap
 
-🔗 **LinkedIn:** Visithra S
-
-🐙 **GitHub:** [visithra18](https://github.com/visithra18)
-
-📧 **Email:** [visithrasutharasanan@gmail.com](mailto:visithrasutharasanan@gmail.com)
+- [x] Build a foundation in Electronics and Communication Engineering.
+- [x] Develop an interest in Digital Electronics and Semiconductor Technology.
+- [ ] Strengthen C Programming and Python skills.
+- [ ] Learn Verilog HDL and VHDL.
+- [ ] Practice RTL Design and Digital Circuit Simulation.
+- [ ] Explore CMOS Design and Semiconductor Fabrication.
+- [ ] Learn Static Timing Analysis (STA) and Design Verification.
+- [ ] Work on real-time VLSI design projects.
+- [ ] **Long-Term Goal:** Become a skilled VLSI Design Engineer.
 
 ---
 
-💡 **Let's connect, learn, collaborate, and build something amazing together!**
+## 🎓 Academic Interests
 
-✨ *"Learning today. Designing tomorrow. Building the future."*
+- Very Large Scale Integration (VLSI)
+- Semiconductor Physics
+- Digital Integrated Circuit Design
+- CMOS Technology
+- ASIC Design
+- FPGA Architecture
+- RTL Design and Verification
+- Low-Power VLSI Design
 
-⭐ **Thanks for visiting my profile!**
+---
+
+## 📊 GitHub Statistics
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=visithra18&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visithra18&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+I'm always interested in learning, collaborating, and exploring opportunities in semiconductor technology and VLSI design.
+
+- 💬 Open to discussions about Digital Electronics, VLSI, and Semiconductor Technology.
+- 💻 Interested in collaborating on beginner-friendly hardware and programming projects.
+- ✉️ **Email:** visithrasutharsanan@gmail.com
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/visithra-s-748a97440/)
+- 🐙 **GitHub:** [Explore my repositories](https://github.com/visithra18)
+
+---
+
+<p align="center">
+  <i>"Designing the logic behind tomorrow's technology, one circuit at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
